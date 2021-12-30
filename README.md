@@ -12,6 +12,9 @@ Python Version used: 3.10
 License: Public Domain - Free to do as you wish!
 
 Triple DES Version: EDE (Encrypt-Decrypt-Encrypt)
+
 C = E(K1,D(K2,E(K1,P)))
+
 P = D(K1,E(K2,D(K1,C)))
+
 Feel free to seek help at mjanjua@asu.edu
