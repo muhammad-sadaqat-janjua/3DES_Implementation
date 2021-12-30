@@ -1,7 +1,7 @@
 # A Comprehensive Walkthrough for Triple DES Learners
 Triple-DES (Data Encryption Standard) Implementation (Encrypt-Decrypt-Encrypt) version (2-Keys) in 
 pure Python language for performance and cross-platform integration reasons. The key idea behind this
-implementation was to implement a comprihensive version for detailed walkthrough in Triple DES!
+implementation was to implement a comprehensive version for detailed walkthrough in Triple DES!
 
 Requirements:
 
